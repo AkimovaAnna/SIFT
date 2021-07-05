@@ -1,1 +1,1 @@
-select fkl
+create table
